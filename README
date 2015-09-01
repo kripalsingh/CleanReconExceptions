@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this project cleans recon exception form exceptions table
+# delete from recon_exceptions where rex_itres_key =
