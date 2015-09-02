@@ -10,9 +10,9 @@
     <packaging>jar</packaging>
 
     <properties>
-        <zipName>CleanReconReception</zipName>
+        <zipName>CleanReconException</zipName>
     </properties>
-    <name>CleanReconReception</name>
+    <name>CleanReconException</name>
 
     <build>
         <plugins>
