@@ -1,4 +1,4 @@
-package edu.uab.oim.tasks;
+package oim.tasks;
 
 import oracle.iam.platform.Platform;
 import oracle.iam.platform.utils.logging.SuperLogger;

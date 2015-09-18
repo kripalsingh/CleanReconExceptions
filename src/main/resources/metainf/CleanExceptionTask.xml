@@ -1,7 +1,7 @@
 <scheduledTasks xmlns="http://xmlns.oracle.com/oim/scheduler">
     <task>
         <name>CleanExceptionTask</name>
-        <class>edu.uab.oim.tasks.CleanException</class>
+        <class>oim.tasks.CleanException</class>
         <description>CleanExceptionTask</description>
         <retry>1</retry>
         <parameters>
